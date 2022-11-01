@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Zalo Received Files/TEST/DoAn">
+        <parameter name="browser" value="Chrome"></parameter>
+        <parameter name="url" value="http://commands.test-code.com/project"></parameter>
+        <classes>
+            <class name="test.HomePageLoginTest"></class>
+        </classes>
+    </test>
+</suite>

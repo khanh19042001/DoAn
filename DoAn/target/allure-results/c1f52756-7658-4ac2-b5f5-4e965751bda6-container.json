@@ -1,0 +1,1 @@
+{"uuid":"c1f52756-7658-4ac2-b5f5-4e965751bda6","name":"test.HomePageAddProductTest","children":["4c3f534f-3b82-4622-a89a-22e72856d44e"],"befores":[{"name":"intiBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665976898025,"stop":1665976900740}],"afters":[],"start":1665976897981,"stop":1665976905446}
